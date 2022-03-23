@@ -26,10 +26,8 @@
             "isModal": true,
             "isInsideMode": false,
 
-            "initDataType": "ole",
+            "initDataType": "text",
             "initData": "",
-
-            "isUpdateOleOnResize": false,
 
             "buttons": [
                 {
